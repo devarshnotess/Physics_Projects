@@ -18,8 +18,8 @@ This project analyzes Type Ia supernova data from the Pantheon+SH0ES dataset to 
 - Data analysis techniques
 
 ## Results
-- Estimated H₀: XX km/s/Mpc
-- Age of Universe: XX Gyr
+- Estimated H₀: 73.53 ± 0.17 km/s/Mpc
+- Age of Universe: 12.36 Gyr
 
 ## Data Source
 Pantheon+SH0ES Supernova Dataset
